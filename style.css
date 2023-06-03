@@ -6,3 +6,11 @@ h1 {
     color: beige;
     text-align: center;
 }
+
+h2 {
+    color: beige;
+    text-align: right;
+    padding-right: 500px;
+    padding-bottom: 300px;
+}
+
